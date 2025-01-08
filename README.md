@@ -1,4 +1,3 @@
 # Portfolio
 
-![](https://github.com/snehasish-bhattacharjee123/Portfolio/tree/main/assets/img/screenshot)
-
+![Screenshot](https://github.com/snehasish-bhattacharjee123/Portfolio/raw/main/assets/img/screenshot)
