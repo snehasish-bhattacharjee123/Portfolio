@@ -1,3 +1,3 @@
 # Portfolio
 
-![Screenshot](https://github.com/snehasish-bhattacharjee123/Portfolio/raw/main/assets/img/screenshot)
+![Screenshot](https://github.com/snehasish-bhattacharjee123/Portfolio/blob/main/assets/img/screenshot/image.png)
